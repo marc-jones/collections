@@ -45,3 +45,12 @@ Strong correlations between different turnip traits and flowering time
 Flowering time QTL were sensitive to environment. The QTL identified near Brassica rapa FLC2, which explained the largest percentage of the observed variation in some experiments, explained less of the variance after vernalization.
   
 Co-localization of QTL for seed traits, growth-related traits, leaf traits, flowering time and turnip formation implies pleiotropy.
+
+
+The Brassica rapa FLC homologue FLC2 is a key regulator of flowering time, identified through transcriptional co-expression networks
+====================================================================================================================================
+Xiao et al. 2013
+----------------
+Found that flowering time genes are preferentially retained in the Brassica rapa genome.
+
+Used a population which was a cross between oil type Yellow sarson line and a vegetable type Pak choi line.
