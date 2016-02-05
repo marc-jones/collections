@@ -54,3 +54,5 @@ Xiao et al. 2013
 Found that flowering time genes are preferentially retained in the Brassica rapa genome.
 
 Used a population which was a cross between oil type Yellow sarson line and a vegetable type Pak choi line.
+
+QTL near Brassica rapa FLC2 explains 33.5% of the observed variation in flowering time.
