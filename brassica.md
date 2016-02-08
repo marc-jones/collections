@@ -56,3 +56,14 @@ Found that flowering time genes are preferentially retained in the Brassica rapa
 Used a population which was a cross between oil type Yellow sarson line and a vegetable type Pak choi line.
 
 QTL near Brassica rapa FLC2 explains 33.5% of the observed variation in flowering time.
+
+At the FLC2 (A2) locus, several eQTL were found for:
+  + FT (Two copies on A7; trans; floral integrator)
+  + SOC1 (A3 and A5; trans; floral integrator)
+  + CO (A10; trans; cirdadean clock)
+  + SRR1 (A2; cis; cirdadean clock)
+  + TCP11 (A2; cis; cirdadean clock)
+
+Found that the genes listed above as well as PI (A2; floral meristem gene) and PGI (A1; cirdadean clock) had expression levels which correlated with the flowering time phenotype.
+
+Found eight eQTL hotspots associated with the expression of flowering time related genes.
