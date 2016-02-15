@@ -12,6 +12,24 @@ Used just temperature data for the periods:
 Used temperature, vernalization and photoperiod to explain the period emergence to first open flower.
 
 
+Delayed flowering time in Arabidopsis and Brassica rapa by the overexpression of FLOWERING LOCUS C (FLC) homologs isolated from Chinese cabbage (Brassica rapa L. ssp. pekinensis)
+==================================================================================================================================================================================
+Kim et al. 2007
+---------------
+Isolated three Brassica rapa FLC genes from Chiifu:
+  + BrFLC1 (BrFLCA10)
+  + BrFLC2 (BrFLCA2)
+  + BrFLC3 (BrFLCA3a)
+
+MADS-domain showed higher homology to Arabidopsis thaliana FLC gene than regions outside the MADS-domain.
+
+BrFLCA10 and BrFLCA2 were found to be ubiquitously expressed in leaves, shoot tips and roots. BrFLCA3a was more lowly expressed than BrFLCA10 and BrFLCA2 in leaves and shoot tips and was not expressed in roots.
+
+Compared an early flowering, an intermediate flowering and a late flowering Chinese cabbage. BrFLCA10 and BrFLCA2 were more highly expressed than BrFLCA3a in all lines. Expression of all three FLC genes was lower in the early flowering variety compared to the other two varieties before vernalization. Vernalization for 40 days caused a decrease in all three BrFLC genes in all varieties.
+
+In transgenic experiments using Arabidopsis thaliana and Brassica rapa, all three BrFLC genes cause a delay in flowering, with BrFLCA2 having the strongest effect.
+
+
 Tuning growth cycles of Brassica crops via natural antisense transcripts of BrFLC
 =================================================================================
 Li et al. 2015
