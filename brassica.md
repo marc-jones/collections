@@ -17,17 +17,17 @@ Delayed flowering time in Arabidopsis and Brassica rapa by the overexpression of
 Kim et al. 2007
 ---------------
 Isolated three Brassica rapa FLC genes from Chiifu:
-  + BrFLC1 (BrFLCA10)
-  + BrFLC2 (BrFLCA2)
-  + BrFLC3 (BrFLCA3a)
+  + BrFLC1 (BrFLC.A10)
+  + BrFLC2 (BrFLC.A2)
+  + BrFLC3 (BrFLC.A3a)
 
 MADS-domain showed higher homology to Arabidopsis thaliana FLC gene than regions outside the MADS-domain.
 
-BrFLCA10 and BrFLCA2 were found to be ubiquitously expressed in leaves, shoot tips and roots. BrFLCA3a was more lowly expressed than BrFLCA10 and BrFLCA2 in leaves and shoot tips and was not expressed in roots.
+BrFLC.A10 and BrFLC.A2 were found to be ubiquitously expressed in leaves, shoot tips and roots. BrFLC.A3a was more lowly expressed than BrFLC.A10 and BrFLC.A2 in leaves and shoot tips and was not expressed in roots.
 
-Compared an early flowering, an intermediate flowering and a late flowering Chinese cabbage. BrFLCA10 and BrFLCA2 were more highly expressed than BrFLCA3a in all lines. Expression of all three FLC genes was lower in the early flowering variety compared to the other two varieties before vernalization. Vernalization for 40 days caused a decrease in all three BrFLC genes in all varieties.
+Compared an early flowering, an intermediate flowering and a late flowering Chinese cabbage. BrFLC.A10 and BrFLC.A2 were more highly expressed than BrFLC.A3a in all lines. Expression of all three FLC genes was lower in the early flowering variety compared to the other two varieties before vernalization. Vernalization for 40 days caused a decrease in all three BrFLC genes in all varieties.
 
-In transgenic experiments using Arabidopsis thaliana and Brassica rapa, all three BrFLC genes cause a delay in flowering, with BrFLCA2 having the strongest effect.
+In transgenic experiments using Arabidopsis thaliana and Brassica rapa, all three BrFLC genes cause a delay in flowering, with BrFLC.A2 having the strongest effect.
 
 
 Tuning growth cycles of Brassica crops via natural antisense transcripts of BrFLC
@@ -85,3 +85,35 @@ At the FLC2 (A2) locus, several eQTL were found for:
 Found that the genes listed above as well as PI (A2; floral meristem gene) and PGI (A1; cirdadean clock) had expression levels which correlated with the flowering time phenotype.
 
 Found eight eQTL hotspots associated with the expression of flowering time related genes.
+
+
+Comparative Analysis of FLC Homologues in Brassicaceae Provides Insight into Their Role in the Evolution of Oilseed Rape
+========================================================================================================================
+Zou et al. 2012
+---------------
+Identified nine FLC homologues in Brassica napus which fall into clades corresponding to the whole-genome triplication events:
+  + BnFLC.A10 (BrFLC1) (Clade I)
+  + BnFLC.A2 (BrFLC2) (Clade II)
+  + BnFLC.A3a (BrFLC3) (Clade III)
+  + BnFLC.A3b (BrFLC5) (Clade III)
+  + BnFLC.C9a (BoFLC1) (Clade I)
+  + BnFLC.C9b (BoFLC1) (Clade I)
+  + BnFLC.C3a (BoFLC3) (Clade III)
+  + BnFLC.C2 (BoFLC4) (Clade II)
+  + BnFLC.C3b (BoFLC5) (Clade III)
+
+The promoter regions of the BnFLC genes were more divergent to each other than exonic sequence.
+
+A 75-bp segment crucial for expression of FLC in nonvernalized Arabidopsis thaliana plants was absent from BnFLC.C9a.
+
+Transcripts for BnFLC.C2 and BnFLC.C3a could only be isolated from Westar.
+
+BnFLC.C3b might be a pseudogene as a transcript could not be isolated from either Tapidor, Ningyou7 or Westar.
+
+Looked at expression of BnFLC.A2, BnFLC.A3b, BnFLC.A10 and BnFLC.A3a-BnFLC.C3a:
+  + All showed a decrease in expression after vernalization in Tapidor
+  + Expression patterns of different copies differed over time in Ningyou7
+  + BnFLC.A3a-BnFLC.C3a showed the greatest fold change between vernalized and nonvernalized measurements
+  + BnFLC.A3b showed a significant expression change between Tapidor and Ningyou7, attributed to differential splicing
+
+Found that BnFLC.A3b, BnFRI.A3 and a Brassica napus homologue of CBF1 clustered at the site of a flowering time QTL.
