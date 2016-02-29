@@ -70,3 +70,38 @@ FLOR1 seemed to show a higher dependency on SOC1 and FUL than FT and TSF in a SV
 FTM1 is associated with the switch from vegatative to reproductive growth rather than the shift from short to long days and is not dependent on FT expression.
 
 FLOR1 promotes flowering and its role is partially redundant with SOC1 and FUL.
+
+
+Gene coexpression patterns during early development of the native Arabidopsis reproductive meristem: novel candidate developmental regulators and patterns of functional redundancy
+===================================================================================================================================================================================
+Mantegazza et al. 2014
+----------------------
+Used laser microdissection to collect inflorescence meristems, floral meristems and stage-3 flowers from Arabidopsis thaliana Col-0.
+
+GO term enrichment of the genes upregulated in the samples found floral development, cell differentiation and transcriptional regulation.
+
+Found MADS-box family of transcription factors to be overrepresented in the sets of differentially expressed genes.
+
+Homeobox and C2C2-YABBY families were overrepresented in stage-3 flowers relative to floral meristems indicating their involvement in the regulation of floral organ differentiation.
+
+Clustered genes based on expression pattern across different tissues, and found similar GO terms as were found in the tissue comparisons.
+
+Compared the results they found to those of a study where they induced AP1 expression and looked at gene expression changes.
+
+Compared hierarchical clustering of expression traces to phylogenetic clustering of transcription factor families to investigate functional redundancies:
+  + AP1 and CAL
+  + AP3 and PI
+  + BLH2 and BLH4
+  + AGL19 and AGL20
+
+Looked for functional regulatory circuits by clustering expression traces and looking for enrichment within these clusters of transcription factor families and transcription factor binding site in the promoter sequences. If a link due to transcription factors and due to expression correlation was found, a regulatory link was inferred.
+
+Inflorescence meristem specific genes showed enrichment of MADS, AP2 and MYB transcription factor binding sites.
+
+Floral meristem specific genes showed enrichment of MADS, AP2 and E2F binding sites.
+
+Stage-3 flower specific genes showed co-occurance of two sets of transcription factor binding sites:
+  + MADS, SBP and bHLH
+  + HOMEOBOX and MADS
+
+Provide evidence for differential expression of IDD family members during floral differentiation in Arabidopsis.
