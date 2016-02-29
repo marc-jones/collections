@@ -35,3 +35,12 @@ Focussed on four groups of expression traces (Description; Enriched GO terms; ph
   4. High expression at the start of transition to flowering phase then decrease; cytoskeleton, microtubules and kinesins; phase II
 
 Attribute these changes to a burst of cell division which occurs in the shoot apical meristem at this stage.
+
+
+Analysis of the Arabidopsis Shoot Meristem Transcriptome during Floral Transition Identifies Distinct Regulatory Patterns and a Leucine-Rich Repeat Protein That Promotes Flowering
+===================================================================================================================================================================================
+Torti et al. 2012
+-----------------
+Grew Col-0 Arabidopsis thaliana under short days, under short days with a period of long days and under long days and used laser microdissection to look at the meristem specific transcriptome.
+
+Found that five days of long day conditions were enough to commit the meristem to flower as if the plant had been grown under continuous long days.
