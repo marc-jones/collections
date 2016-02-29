@@ -41,6 +41,32 @@ Analysis of the Arabidopsis Shoot Meristem Transcriptome during Floral Transitio
 ===================================================================================================================================================================================
 Torti et al. 2012
 -----------------
-Grew Col-0 Arabidopsis thaliana under short days, under short days with a period of long days and under long days and used laser microdissection to look at the meristem specific transcriptome.
+Grew Col-0 Arabidopsis thaliana under continuous short days, under short days with a period of long days and under continuous long days and used laser microdissection to look at the meristem specific transcriptome.
 
 Found that five days of long day conditions were enough to commit the meristem to flower as if the plant had been grown under continuous long days.
+
+SOC1 and FUL null mutants required a longer period of long days to induce flowering, with the double mutant requiring longer still, implying redundancy.
+
+In wild type, SOC1 and FUL reduce in expression on return to short days when the plants have not been fully commited to flowering. When commited, SOC1 still decreases but FUL remains expressed, indicating that FUL is independent of long days once the plant is committed.
+
+A null mutation in SVP is able to recover some of the effects of a SOC1 and FUL double null mutant, suggesting that SVP targets other than SOC1 and FUL are able to promote flowering in their absence.
+
+SVP null mutation is more sensitive to long days than the wild type, and is able to restore long day sensitivity in the SOC1 and FUL double null mutant.
+
+FT overexpression in the SOC1 and FUL double null mutant did not accelerate flowering, suggesting that the suppression of the double null mutant phenotype by a SVP null mutation is not due to FT expression.
+
+Looked at gene expression change after a switch from short days to long days to try and identify other genes involved and did further analysis on six: FTM1-3, FLOR1, FAF2 and SPL4.
+
+FLOR1, FTM2, FAF2 and SPL4 were not induced in the FT and TSF double null mutant after exposure to five long days, but FTM1 and FTM3 were.
+
+The increase in expression of FLOR1, FTM2 and SPL4 to long days is dependent on SOC1 and FUL, but FTM3 is not.
+
+An SVP null mutation in a FT-TSF or SOC1-FUL double null mutation background allows SPL4 induction in long days.
+
+FAF2 expression was dependent on FT and TSF even in SVP triple null mutants. An SVP null mutation can overcome the requirement for SOC1 and FUL for activation of FAF2. Shows a stronger requirement for FT and TSF
+
+FLOR1 seemed to show a higher dependency on SOC1 and FUL than FT and TSF in a SVP null mutant background.
+
+FTM1 is associated with the switch from vegatative to reproductive growth rather than the shift from short to long days and is not dependent on FT expression.
+
+FLOR1 promotes flowering and its role is partially redundant with SOC1 and FUL.
