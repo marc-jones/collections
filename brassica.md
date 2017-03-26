@@ -117,3 +117,90 @@ Looked at expression of BnFLC.A2, BnFLC.A3b, BnFLC.A10 and BnFLC.A3a-BnFLC.C3a:
   + BnFLC.A3b showed a significant expression change between Tapidor and Ningyou7, attributed to differential splicing
 
 Found that BnFLC.A3b, BnFRI.A3 and a Brassica napus homologue of CBF1 clustered at the site of a flowering time QTL.
+
+Lou et al. 2012
+---------------
+
+Circadean clock genes are preferentially retained relative to comparison groups of their neighbouring genes, a set of randomly chosen genes and a set of housekeeping genes
+
+gene dosage hypothesis
+
+schiessl et al 2015
+-------------------
+
+looked at flowering, yield and plant height and identified a number of flowering time genes
+
+also found enrichment for RNA interference and processing GO terms of genes in regions associated with flowering time
+
+for yield componants, 30% of the candidate genes were detected with more than one copy, caused by several regions of interest being homoeologous indicating co-expression of those genes between the sub-genomes
+
+
+osborn et al 2003 - review
+-----------------
+
+how do polyploids get an immediate selective advantage
+variation introducted due to:
+* increased variation in dosage-regulated gene expression
+* altered regulatory mechanisms
+* rapid genetic and epigenetic changes
+variation in flowering time may result in the polyploid species being reproductively isolated
+
+pires et al 2004
+----------------
+
+resynthesised brassica napus and found an early and a late flowering population within 6 generations
+
+no evidence that BnFLC1 (BrFLC A10 and BoFLC C9) contributed to the differences in flowering time between the B. napus lines.
+
+BnFLC2 (BrFLC2 A2, BoFLC2 C2) - BoFLC C2 seems to be missing. The early-flowering polyploid population has a chromosome translocation so has two copies of A2, whereas the Late-flowering population also have a chromosome translocation and have lost A2. Hypothesise that the gene has diverged to another function or is interfering with other FLC copies
+
+BnFLC3 (A3, C3) early flowering lines have lost BoFLC3 and have a double dose of BrFLC3 - accounted for a significant proportion of the observed variation
+
+BoFLC5 (A3 and C3) was silenced. This was expected, as the gene was silenced in the diploid plants, but the rapa copy was not silenced - no effect on the divergence in flowering time
+
+higgins et al 2012
+------------------
+
+RNA-Seq to look at A and C genome transcription
+
+there were differentially expressed homoeologues, with enriched GO terms not associated with gene dosage effects
+
+dun et al 2014
+--------------
+
+novel function related to male fertility probably arose
+through altered protein function rather than through
+changes in gene expression patterns.
+
+fertility-restoring effect on the
+B. napus male-sterile mutant 7365A
+
+the C9 copy in oleracea and napus gained a novel role in male sterility while also maintaining the ancestral role, while the other copies just maintained the ancestral role
+
+
+Axelsson et al. 2001
+--------------------
+
+qtl analysis of flowering time found association with 2 of 3 replicated segments containing both FLC and CO in each diploid genome
+
+
+Schiessl et al 2014
+-------------------
+
+sequence variation, copy number variation, presence absence variation
+
+used sequence variation between Brassica napus varieties with different vernalization requirements to suggest gene copies which are less functional
+
+most flowering time gene
+copies arising from the ancestor genomes were retained after
+allopolyploidization, and many of the retained paralogs are still
+expressed
+
+Liu et al. 2014
+---------------
+
+Greater TEs accumulation in B. oleracea than B. rapa
+
+WGT-produced paralogous genes are over-retained in GO categories associated with regulation of metabolic and biosynthetic processes, RNA metabolism and transcription factors
+
+phylogenetic analyes have shown that the whole genome triplication has led to an expansion of genes involved in flowering time control
